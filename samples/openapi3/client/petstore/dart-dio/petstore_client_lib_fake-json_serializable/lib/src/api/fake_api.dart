@@ -7,6 +7,7 @@ import 'dart:async';
 // ignore: unused_import
 import 'dart:convert';
 import 'package:openapi/src/deserialize.dart';
+
 import 'package:dio/dio.dart';
 
 import 'package:openapi/src/model/file_schema_test_class.dart';

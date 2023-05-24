@@ -7,6 +7,7 @@ import 'dart:async';
 // ignore: unused_import
 import 'dart:convert';
 import 'package:openapi/src/deserialize.dart';
+
 import 'package:dio/dio.dart';
 
 import 'package:openapi/src/model/foo_get_default_response.dart';
